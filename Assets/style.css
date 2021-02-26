@@ -1,0 +1,42 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-image: url("./bg.webp");
+    background-size: cover;
+}
+
+/*
+#bk {
+    background-color: blue;
+}
+*/
+
+.test {
+    background-color: cornsilk;
+}
+
+.btn {
+    background-color: darkmagenta;
+}
+
+.btn:hover {
+    background-color: darkred;
+}
+
+#Dialogues {
+    border: dashed;
+    border-width: thick;
+    border-top: firebrick;
+    border-bottom: green;
+    border-left: white;
+    border-right: black;
+    border-left-width: ;
+    border-right-style:dotted ;
+
+    padding: 10%;
+    padding: 10em;
+    padding: 10px;
+    padding: 10pt;
+}
